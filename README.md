@@ -63,14 +63,16 @@ python main.py \
 ## Citation
 If our work is useful, please consider the following citation:
 ```
-@misc{lee2024activatingselfattentionmultisceneabsolute,
-      title={Activating Self-Attention for Multi-Scene Absolute Pose Regression}, 
-      author={Miso Lee and Jihwan Kim and Jae-Pil Heo},
-      year={2024},
-      eprint={2411.01443},
-      archivePrefix={arXiv},
-      primaryClass={cs.CV},
-      url={https://arxiv.org/abs/2411.01443}, 
+@inproceedings{NEURIPS2024_43d7bc00,
+ author = {Lee, Miso and Kim, Jihwan and Heo, Jae-Pil},
+ booktitle = {Advances in Neural Information Processing Systems},
+ editor = {A. Globerson and L. Mackey and D. Belgrave and A. Fan and U. Paquet and J. Tomczak and C. Zhang},
+ pages = {38508--38529},
+ publisher = {Curran Associates, Inc.},
+ title = {Activating Self-Attention for Multi-Scene Absolute Pose Regression},
+ url = {https://proceedings.neurips.cc/paper_files/paper/2024/file/43d7bc009cf5171e7af77a91ee4bb890-Paper-Conference.pdf},
+ volume = {37},
+ year = {2024}
 }
 ```
 
